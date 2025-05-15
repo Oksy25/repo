@@ -85,3 +85,24 @@ header {
 .p_section {
     background-color: rgba(233, 214, 50, 0.836);
 }
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+div {
+    color: red;
+}
+
+.div_clas {
+color: blue;
+}
+
+#div_id {
+    color: green;
+}
+
+body {
+     font-family: "Lato", sans-serif;
+}
